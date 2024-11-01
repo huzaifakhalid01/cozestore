@@ -1,0 +1,26 @@
+[
+    {
+        "name": "infinix",
+        "image": "https://www.whatmobile.com.pk/admin/images/Vivo/VivoV30e-s.jpg",
+        "price": 43567,
+        "description": "dfgeirtgfiue"
+    },
+    {
+        "name": "iphone",
+        "image": "https://www.whatmobile.com.pk/admin/images/Oppo/OppoReno11F-s.jpg",
+        "price": 43567,
+        "description": "dfgeirtgfiue"
+    },
+    {
+        "name": "infinix2",
+        "image": "https://www.whatmobile.com.pk/admin/images/Oppo/OppoReno11F-s.jpg",
+        "price": 43567,
+        "description": "dfgeirtgfiue"
+    },
+    {
+        "name": "vivo",
+        "image": "https://www.whatmobile.com.pk/admin/images/Infinix/InfinixNote40-s.jpg",
+        "price": 43567,
+        "description": "dfgeirtgfiue"
+    }
+]
